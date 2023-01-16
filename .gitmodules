@@ -1,0 +1,3 @@
+[submodule "Laravel-Notion-Integration"]
+	path = Laravel-Notion-Integration
+	url = https://github.com/Eyadhamza/Laravel-Notion-Integration
